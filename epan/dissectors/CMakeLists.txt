@@ -799,6 +799,7 @@ set(DISSECTOR_SRC
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-btsmp.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bvlc.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bzr.c
+	${CMAKE_CURRENT_SOURCE_DIR}/packet-ng.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-c15ch.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-calcappprotocol.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-caneth.c
